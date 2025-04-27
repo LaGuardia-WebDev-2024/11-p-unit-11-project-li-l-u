@@ -12,7 +12,10 @@ html{
   height: 100%;
   width: 100%;
 }
-
+h1{
+  color: pink ;
+  border: dotted;
+}
 #myCanvas {
   border: 1px solid black;
 }
